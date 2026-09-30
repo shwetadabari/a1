@@ -1,5 +1,5 @@
-/* RISOTTO GARDEN HEARTH & ATELIER - CLIENT ENGINE
-   Handles mobile navigation drawer, accordion interactions, table reservation mockups
+/* RISOTTO GARDEN HEARTH & ATELIER - MAIN ENTRY POINT
+   Fully synchronized with script.js (Rule 11)
 */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -36,7 +36,6 @@ document.addEventListener('DOMContentLoaded', () => {
       const item = header.parentElement;
       const isActive = item.classList.contains('active');
       
-      // Close peers if in same column
       const siblingGroup = item.parentElement.querySelectorAll('.rg-accordion-item');
       siblingGroup.forEach(sibling => sibling.classList.remove('active'));
       
@@ -52,7 +51,6 @@ document.addEventListener('DOMContentLoaded', () => {
     form.addEventListener('submit', (e) => {
       e.preventDefault();
       const btn = form.querySelector('button[type="submit"]');
-      const originalText = btn.innerHTML;
       btn.disabled = true;
       btn.innerHTML = 'Transmitting Reservation Request...';
       

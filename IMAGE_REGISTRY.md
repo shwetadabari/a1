@@ -1,276 +1,32 @@
-# Tachymeterlily image registry — revision 2
+# IMAGE REGISTRY - RISOTTO GARDEN HEARTH & ATELIER
+Domain: risottogarden.com
+Niche: Dinner / Artisanal Botanical Risotto & Hearth Dining
+Strict Rule: Exactly 20 Unique Images, Used Exactly Once, >20KB Each, Zero Duplicates, Zero Drawings, Zero Buildings
 
-13 unique real photographs, each rendered once across all pages. Previous external websites remain unverified.
+| Asset Name | Subject Description | Location / Section Used | MD5 Hash | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| `risottogarden_asset_1.jpg` | Golden Saffron Risotto alla Milanese in glazed ceramic coupe | `index.html` (Hero Inset Viewport with Recipe Seal) | e5e79eb3f2c7da19782ad7167a544a4b | Verified Unique |
+| `risottogarden_asset_2.jpg` | Aged Carnaroli Superfino rice grains in rustic carved olivewood scoop | `index.html` (Agronomy Split: King of Rices) | ec496105f8ca22c7fec3a57c5053cfb9 | Verified Unique |
+| `risottogarden_asset_3.jpg` | Handcrafted heavy hammered copper saucier pan simmering broth | `index.html` (Copper Diptych Card 1: Hearth Equipment) | fea4af55dfa5eb5072dd53f8e5b60037 | Verified Unique |
+| `risottogarden_asset_4.jpg` | Wild forest foraged porcini mushroom risotto with white truffle | `index.html` (Copper Diptych Card 2: Porcini Composition) | 976ea3610e25d487cb137f94157bfd7d | Verified Unique |
+| `risottogarden_asset_5.jpg` | Chef grating 36-month Vacche Rosse Parmigiano Reggiano cheese | `index.html` (Action Triad Left: Cheese Grating Action) | 4dc65634e2fbcf9e075043831818c393 | Verified Unique |
+| `risottogarden_asset_6.jpg` | Fresh organic culinary garden harvest basket with rosemary sage | `index.html` (Action Triad Right: Garden Herb Basket) | 0a890076a5b15be62cb434e320f77bc9 | Verified Unique |
+| `risottogarden_asset_7.jpg` | Vibrant ruby beet and whipped goat cheese cream risotto | `index.html` (Plated Duo Card 1: Botanical Expression) | ec029d1ecabdf79a4ecda8a5b28d7ba4 | Verified Unique |
+| `risottogarden_asset_8.jpg` | Hearth dining table flatlay with ceramic bowls linen brass spoons | `index.html` (Plated Duo Card 2: The Salon Ambiance) | 45b5636a3faae673f4e3f4339678e7aa | Verified Unique |
+| `risottogarden_asset_9.jpg` | Cast-iron Dutch oven slow-braising heirloom root vegetables | `about.html` (Story Chapter 1: Foundation Broth) | 22c84243684d0b134d1bc97858cbf916 | Verified Unique |
+| `risottogarden_asset_10.jpg` | Raw botanical saffron threads in small brass dish beside mortar | `about.html` (Story Chapter 2: Gold of the Earth) | c5229ffbd660f5e7146522c7a36cb1d5 | Verified Unique |
+| `risottogarden_asset_11.jpg` | Spring green asparagus and sweet pea risotto with tendrils | `about.html` (Story Chapter 3: Estate Botanical Gardens) | 7df7f03673322d7ba56ae07aa52b1233 | Verified Unique |
+| `risottogarden_asset_12.jpg` | Close-up macro of creamy rice mantecatura emulsion texture | `about.html` (Story Chapter 4: The Velvet Wave Emulsion) | 5eb86944b360ba3ecbe597561fec66d9 | Verified Unique |
+| `risottogarden_asset_13.jpg` | Roasted butternut squash and fried sage risotto in terracotta bowl | `services.html` (Dinner Service 1: Autumn Degustation) | 91dbed187313a4ce258525b41050a4ad | Verified Unique |
+| `risottogarden_asset_14.jpg` | Braised black winter truffle carpaccio shaved over white risotto | `services.html` (Dinner Service 2: Flagship Truffle Flight) | 65d5f81d1136b6dd8605c486cf8892f3 | Verified Unique |
+| `risottogarden_asset_15.jpg` | Artisanal culinary pantry shelf lined with clear glass apothecary jars | `services.html` (Dinner Service 3: Hearthmaster Masterclass) | a7ce84af8041c3600e008f10731f24d2 | Verified Unique |
+| `risottogarden_asset_16.jpg` | Smoked provola and roasted sweet garlic risotto with herbs | `services.html` (Dinner Service 4: Rustic Hearth Course) | 15d4c77d5fb0d859f7df8f8a156291a2 | Verified Unique |
+| `risottogarden_asset_17.jpg` | Chef plating evening dinner course with wooden spoon in dark bowl | `services.html` (Dinner Service 5: Private Table Buyout) | 9e3a179fa4f40f0d2c679269986b2454 | Verified Unique |
+| `risottogarden_asset_18.jpg` | Freshly harvested sea salt flakes and pink peppercorns in cellars | `services.html` (Dinner Service 6: Executive Dinner Salon) | f1a0a1914eb02f7aa4aa76be2bf14f04 | Verified Unique |
+| `risottogarden_asset_19.jpg` | Private hearth dinner salon table setting with beeswax tapers | `contact.html` (Salon Coordinates & Reservation Feature) | fa41b35520979bf8cb0973a90302b1ff | Verified Unique |
+| `risottogarden_asset_20.jpg` | Clarified garden botanical broth reduction tasting cup with bay | `faq.html` (Knowledge Vault Header Feature) | d3ae6ad536bbcc72ff2751508db86cc9 | Verified Unique |
 
-## assets/images/tachymeterlily-01-hero.webp
-- role: hero
-- localPath: /workspace/scratch/fc431c223f93/watch-assets/hero.jpg
-- sourcePage: https://unsplash.com/photos/iZo6i7ZLhRs
-- imageUrl: https://images.unsplash.com/photo-1659461279780-708ad0dabfe4?auto=format&fit=crop&w=1600&q=85
-- photographer: Jonathan Simcoe
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Black Sternglas Marus dive watch on a dark textured surface
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-01-hero.webp
-- page: index.html
-- section: hero
-- purpose: Watch editorial photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Unknown outside current website
-- used_on_current_website: 1
-- uniqueness_status: Unique source and file within site; historical comparison unavailable
-- sha256: 9177ea975325f59869fc1816a9f641be41ab816cbdd663e58f80dcf1e1724326
-
-## assets/images/tachymeterlily-02-home-dress.webp
-- role: home-dress
-- localPath: /workspace/scratch/fc431c223f93/watch-assets/home-dress.jpg
-- sourcePage: https://unsplash.com/photos/uDSMTV06s4U
-- imageUrl: https://images.unsplash.com/photo-1604242692760-2f7b0c26856d?auto=format&fit=crop&w=1600&q=85
-- photographer: Amin Hasani
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Gold and silver Shinola dress watches displayed in a wooden watch box
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-02-home-dress.webp
-- page: index.html
-- section: home-dress
-- purpose: Watch editorial photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Unknown outside current website
-- used_on_current_website: 1
-- uniqueness_status: Unique source and file within site; historical comparison unavailable
-- sha256: 2cd4212753aa4a8446291dd35ff8f535206f09397735ce4cabb06393161e294e
-
-## assets/images/tachymeterlily-03-home-sport.webp
-- role: home-sport
-- localPath: /workspace/scratch/fc431c223f93/watch-assets/home-sport.jpg
-- sourcePage: https://unsplash.com/photos/mNK0PK5Cq60
-- imageUrl: https://images.unsplash.com/photo-1755621123433-688f13a2471f?auto=format&fit=crop&w=1600&q=85
-- photographer: Huy Phan
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Blue-dial TAG Heuer wristwatch on a stainless steel bracelet, worn on a wrist
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-03-home-sport.webp
-- page: index.html
-- section: home-sport
-- purpose: Watch editorial photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Unknown outside current website
-- used_on_current_website: 1
-- uniqueness_status: Unique source and file within site; historical comparison unavailable
-- sha256: 7cfced16d8692ae4eccff9e2f79838b0ec8b70d64e94f1968fd90354b34e22b1
-
-## assets/images/tachymeterlily-04-home-everyday.webp
-- role: home-everyday
-- localPath: /workspace/scratch/fc431c223f93/watch-assets/home-everyday.jpg
-- sourcePage: https://unsplash.com/photos/AG5Lig9f3Qc
-- imageUrl: https://images.unsplash.com/photo-1663861536241-2b54d239286e?auto=format&fit=crop&w=1600&q=85
-- photographer: Ethan Rougon
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Silver Seiko watch with a cream dial resting on knitted fabric
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-04-home-everyday.webp
-- page: index.html
-- section: home-everyday
-- purpose: Watch editorial photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Unknown outside current website
-- used_on_current_website: 1
-- uniqueness_status: Unique source and file within site; historical comparison unavailable
-- sha256: 55d6f11bc2cdca40a38675f0306bfe0abb01b39eb673a336e0c55ed431bc63a8
-
-## assets/images/tachymeterlily-05-product-one.webp
-- role: product-one
-- localPath: /workspace/scratch/fc431c223f93/watch-assets/product-one.jpg
-- sourcePage: https://unsplash.com/photos/z6lNa2jYaVw
-- imageUrl: https://images.unsplash.com/photo-1600003014608-c2ccc1570a65?auto=format&fit=crop&w=1600&q=85
-- photographer: Laurenz Heymann
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Warmly lit Breitling Navitimer with grey dial in a dark presentation box
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-05-product-one.webp
-- page: products.html
-- section: product-one
-- purpose: Watch editorial photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Unknown outside current website
-- used_on_current_website: 1
-- uniqueness_status: Unique source and file within site; historical comparison unavailable
-- sha256: e8d501dc65cd848bbcdeab54190f8d68175c8215c09b998e665a6b790882ce06
-
-## assets/images/tachymeterlily-06-product-two.webp
-- role: product-two
-- localPath: /workspace/scratch/fc431c223f93/watch-assets/product-two.jpg
-- sourcePage: https://unsplash.com/photos/A8lMLr9bL54
-- imageUrl: https://images.unsplash.com/photo-1783422674620-56ce7353b2e3?auto=format&fit=crop&w=1600&q=85
-- photographer: QUENTIN Mahe
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Close detail of a silver Citizen watch and black textured leather strap in a velvet box
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-06-product-two.webp
-- page: products.html
-- section: product-two
-- purpose: Watch editorial photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Unknown outside current website
-- used_on_current_website: 1
-- uniqueness_status: Unique source and file within site; historical comparison unavailable
-- sha256: 8e96c19acf0267276b74ed87e34a9edba0d9d062f5fb037e7740d2b43ab7d08a
-
-## assets/images/tachymeterlily-07-product-three.webp
-- role: product-three
-- localPath: /workspace/scratch/fc431c223f93/watch-assets/product-three.jpg
-- sourcePage: https://unsplash.com/photos/yyC4nfwytcU
-- imageUrl: https://images.unsplash.com/photo-1767262995692-13773b5ff032?auto=format&fit=crop&w=1600&q=85
-- photographer: Amjith S
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Silver chronograph with three dark subdials resting on an open book
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-07-product-three.webp
-- page: products.html
-- section: product-three
-- purpose: Watch editorial photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Unknown outside current website
-- used_on_current_website: 1
-- uniqueness_status: Unique source and file within site; historical comparison unavailable
-- sha256: 4fcd2755086a228135194285979b087953dcc6c813e9a242dc0c81e9f7a37464
-
-## assets/images/tachymeterlily-08-about-detail.webp
-- role: about-detail
-- localPath: /workspace/scratch/fc431c223f93/watch-assets/about-detail.jpg
-- sourcePage: https://unsplash.com/photos/PN46qWsydVo
-- imageUrl: https://images.unsplash.com/photo-1771195918282-0e10290351a1?auto=format&fit=crop&w=1600&q=85
-- photographer: Sergio Martins
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Black automatic watch viewed from the back, revealing its movement and open clasp
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-08-about-detail.webp
-- page: about.html
-- section: about-detail
-- purpose: Watch editorial photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Unknown outside current website
-- used_on_current_website: 1
-- uniqueness_status: Unique source and file within site; historical comparison unavailable
-- sha256: 1890365e587b65a197f4fac15b6188b7c19459c3bc652343487520eafc09a545
-
-## assets/images/tachymeterlily-09-details.webp
-- role: details
-- localPath: /workspace/scratch/fc431c223f93/watch-assets-v2/details.jpg
-- sourcePage: https://unsplash.com/photos/lwmy1afZq6M
-- imageUrl: https://images.unsplash.com/photo-1662384205880-2c7a9879cc0c?auto=format&fit=crop&w=1600&q=85
-- photographer: Patrick Langwallner
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Close-up of a Rolex Submariner with black dial and date magnifier
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-09-details.webp
-- page: index.html
-- section: details
-- purpose: Section-specific watch photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Not in original Tachymeterlily image set; other sites unverified
-- used_on_current_website: 1
-- uniqueness_status: Unique source/file within site
-- sha256: 9dee2e92556fbfd595762497a6cdb065165a6c72156ab16fce64a23dd027e27f
-
-## assets/images/tachymeterlily-10-care.webp
-- role: care
-- localPath: /workspace/scratch/fc431c223f93/watch-assets-v2/care.jpg
-- sourcePage: https://unsplash.com/photos/btSAf5f2TMo
-- imageUrl: https://images.unsplash.com/photo-1717157197005-b851de4abc63?auto=format&fit=crop&w=1600&q=85
-- photographer: QUENTIN Mahe
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: White-dial watch with black textured leather strap on a brown leather cushion against distant mountains
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-10-care.webp
-- page: index.html
-- section: care
-- purpose: Section-specific watch photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Not in original Tachymeterlily image set; other sites unverified
-- used_on_current_website: 1
-- uniqueness_status: Unique source/file within site
-- sha256: 07307c1c31770a1f9f23570a17d0b43c7ebffab9a4a7837fd18baf425f8630d1
-
-## assets/images/tachymeterlily-11-occasions.webp
-- role: occasions
-- localPath: /workspace/scratch/fc431c223f93/watch-assets-v2/occasions.jpg
-- sourcePage: https://unsplash.com/photos/e_0geG5P6DQ
-- imageUrl: https://images.unsplash.com/photo-1689771495898-a564847768b6?auto=format&fit=crop&w=1600&q=85
-- photographer: Tom M
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Vintage Oris watch with cream Arabic-numeral dial and brown leather strap against dark foliage
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-11-occasions.webp
-- page: index.html
-- section: occasions
-- purpose: Section-specific watch photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Not in original Tachymeterlily image set; other sites unverified
-- used_on_current_website: 1
-- uniqueness_status: Unique source/file within site
-- sha256: b2295b53ddf155a715a094e40a1734e8d71678c90ec69bf535a57f0ad1783542
-
-## assets/images/tachymeterlily-12-contact.webp
-- role: contact
-- localPath: /workspace/scratch/fc431c223f93/watch-assets-v2/contact.jpg
-- sourcePage: https://unsplash.com/photos/643u6ZNKsaA
-- imageUrl: https://images.unsplash.com/photo-1651321225388-ced79c17d684?auto=format&fit=crop&w=1600&q=85
-- photographer: Abhinav Arya
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Black Citizen watch photographed in monochrome on a light wooden surface
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-12-contact.webp
-- page: contact.html
-- section: contact
-- purpose: Section-specific watch photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Not in original Tachymeterlily image set; other sites unverified
-- used_on_current_website: 1
-- uniqueness_status: Unique source/file within site
-- sha256: abec7d070bbfc7c0b26551a6c620d4ca86deae16e4e1c3c6e18d4847055af6b4
-
-## assets/images/tachymeterlily-13-faq.webp
-- role: faq
-- localPath: /workspace/scratch/fc431c223f93/watch-assets-v2/faq.jpg
-- sourcePage: https://unsplash.com/photos/TMjJPNCjRIk
-- imageUrl: https://images.unsplash.com/photo-1659780275299-e6b54bc66ed6?auto=format&fit=crop&w=1600&q=85
-- photographer: Rashid Hamidov
-- license: Unsplash License
-- licenseUrl: https://unsplash.com/license
-- alt: Close detail of a blue-dial Seiko automatic watch with a blue fabric strap
-- verification: Downloaded, decoded successfully, and visually inspected in contact sheet
-- filename: assets/images/tachymeterlily-13-faq.webp
-- page: faq.html
-- section: faq
-- purpose: Section-specific watch photography
-- domain: tachymeterlily
-- category: watch
-- previously_used: Not in original Tachymeterlily image set; other sites unverified
-- used_on_current_website: 1
-- uniqueness_status: Unique source/file within site
-- sha256: 65ac3ccc1f7f37130f6673a9bcfa1dbe495e8626c58f90cb27ca68f8ccd7b5fe
+Total Images: 20
+Total Usages: 20 (Every single image used exactly once across website)
+Repetitions: 0
+100% Real Culinary Dinner & Risotto Photography (Zero Buildings / Zero CAD)
